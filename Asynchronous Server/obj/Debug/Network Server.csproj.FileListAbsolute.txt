@@ -1,0 +1,7 @@
+D:\Practices\C# Project Files\Network Server\Network Server\obj\Debug\Network Server.csprojAssemblyReference.cache
+D:\Practices\C# Project Files\Network Server\Network Server\obj\Debug\Network Server.csproj.CoreCompileInputs.cache
+D:\Practices\C# Project Files\Network Server\Network Server\bin\Debug\Network Server.exe.config
+D:\Practices\C# Project Files\Network Server\Network Server\bin\Debug\Network Server.exe
+D:\Practices\C# Project Files\Network Server\Network Server\bin\Debug\Network Server.pdb
+D:\Practices\C# Project Files\Network Server\Network Server\obj\Debug\Network Server.exe
+D:\Practices\C# Project Files\Network Server\Network Server\obj\Debug\Network Server.pdb
